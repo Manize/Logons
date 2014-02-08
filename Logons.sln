@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logons", "Logons\Logons.csproj", "{87A78754-A7CA-493F-B49A-8CC437E59025}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FACF4C94-E3E2-4B68-82A4-A7EAFFC5F433}"
+	ProjectSection(SolutionItems) = preProject
+		ELog.cs = ELog.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
